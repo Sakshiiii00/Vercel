@@ -59,7 +59,7 @@ To get a local copy up and running, follow these simple steps. This project requ
 
 2.  **Clone the repository:**
     ```sh
-    git clone https://github.com/KingHero11211/Vercel.git
+    git clone https://github.com/Sakshiiii00/Vercel.git
     ```
 3.  **Navigate to the project directory:**
     ```sh
